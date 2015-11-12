@@ -1,0 +1,3 @@
+ ./react.py /home/andrea/Codemotion2014_Charlie -p "*.jpg"  './python_tweeter.py $f'
+
+
